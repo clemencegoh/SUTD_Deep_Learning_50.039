@@ -2,13 +2,445 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d26915b4-2120-42f5-8f9c-4459cc90fb66" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notes/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notes/experiment.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notes/images/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notes/week1.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/7fe1f424-c09d-4781-af13-2352d2ee4229" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/Draft-tweaked.npm.min-vflv6fIqY.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/JltbP2o3.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/Serving.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/UKpRq-Ok(1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/UKpRq-Ok(10).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/UKpRq-Ok(2).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/UKpRq-Ok(3).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/UKpRq-Ok(4).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/UKpRq-Ok(5).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/UKpRq-Ok(6).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/UKpRq-Ok(7).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/UKpRq-Ok(8).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/UKpRq-Ok(9).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/UKpRq-Ok.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/_path.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/accessibility-vflMYBl-j.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/action_creators.min-vflzCwWhm.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/action_creators_helpers.min-vflHaX-RU.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/actions.min-vflTkzxqK.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/actions.min-vflbOnp0a.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/actions.min-vflbR1Kqp.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/actions.min-vflyx0bUf.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/active_macro_chrome_component.min-vflZZyp2X.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/active_macro_span_component.min-vflzzxm4P.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/ajax-loading-small@2x-vflAxdZTP.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/alameda_bundle-vfljgY2qr.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/anchor(1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/anchor(2).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/anchor(3).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/anchor(4).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/anchor(5).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/anchor(6).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/anchor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/animate_scroll.min-vflUeuvOT.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/annotation_bubble.min-vfl9dXjFB.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/annotation_comments_list_ui_bubble.min-vflWDJOzm.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/annotation_label.min-vflJT9Zri.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/annotation_toggle.min-vflgtxq5Z.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/annotation_utils.min-vflJUlH-r.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/api.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/api.min-vflAFLHXP.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/api.min-vflDdFFJb.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/api.min-vflFrfdXX.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/api.min-vflq-lH6Y.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/async_shared_link_signup_modals.min-vflyxFJ8D.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/atomic_block_component.min-vflvsPhRH.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/avatar_popover_content.min-vflpDGI6Q.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/avatars.min-vflri3hXT.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/backdrop.amd.min-vfl57pFVe.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/base.min-vflqTmsY-.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/basic.min-vflu-S9qC.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/bloodhound.min-vfl7gwuxu.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/breadcrumbs.min-vflHFxqEG.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/bright_modal-vfltS1uv-.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/button-vflTJq0ov.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/button.min-vflGw2BYT.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/button_component.min-vflN-bpBP.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/calc_visibility_data.min-vfloltCiD.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/calendar_section.min-vflwBWYHl.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/callout.min-vfla78UXI.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/cancel_button.min-vflOevl5r.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/chat_section.min-vflabWpLf.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/class_decorators.min-vflUM0v7n.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/click_outside.min-vfl0EsTSh.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/coach_mark.min-vfl4Up44y.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/coach_mark_container.min-vfl5mLWGn.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comment.min-vfluS6dLL.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comment_avatar.min-vfl-YnypS.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comment_dom.min-vfldZq72L.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comment_editor.min-vflfRI55E.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comment_renderer.min-vflZi4DZt.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comment_stream.min-vflnlndkK.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comment_stream_post_bar.min-vflnvLwb8.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comment_utils.min-vflCHQ4Dt.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comment_utils.min-vflV3EVRl.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comments-vflF0Cutt.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comments_annotations-vflGmnixA.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comments_pane.min-vflilWwTE.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comments_tab.min-vfltSAgNl.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/comments_translations.min-vfl_yzXyV.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/compact_form-vflfQZ6wi.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/components-vflbDMbD3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/composed_feature.min-vflUNdaOS.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/composed_scope.min-vfl36gqIX.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/constants.min-vflcV1PMr.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/constants.min-vflnGmDJC.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/container.min-vfl8lg6cj.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/container_interaction.min-vflgee94P.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/controls.min-vflnsGMg2.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/controls_container.min-vfloKaJCo.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/controltag.js.09ebc571a022d419934530eaf14c8a78" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/convert_annotation_coordinates.min-vfl0QB7tK.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/data.min-vfl12EFFT.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/default_user_client.min-vflj04hQj.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/display_name.min-vflWhUOas.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/document.min-vflOheoIJ.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/draft_component.min-vfluAj4_p.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/draft_utils.min-vfl2AuZD7.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/dropbox_files@2x-vflABjXqu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/ebOneTag.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/editor_component.min-vflgIwTnp.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/editor_container_component.min-vflRTJdmd.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/emails-vflCV9b0W.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/empty_seen_state_facepile.min-vflDacKnx.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/error-helper.min-vflNA3BZ0.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/esignature_callout.min-vflKWEU4b.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/esignature_field_selector.min-vflKd7pyZ.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/esignature_guide_buttons.min-vflWI0-TR.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/esignature_popover_item.min-vflIbMhtJ.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/esignature_send_button.min-vflbqag-o.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/esignature_share_modal.min-vfljE5B1q.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/esignature_share_modal_utils.min-vfl0IGCG4.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/esignature_title_bar_actions.min-vflREhNZc.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/esignature_title_bar_title.min-vflVA4QNY.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/esignature_titlebar_close.min-vflDE3Y_V.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/esignature_toolbar_section.min-vfl49bqIO.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/event_emitter.min-vflfMB-Fp.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/exp_cards-vflJsYU3g.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/facepile.amd.min-vflTpQHfc.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/facepile_members.amd.min-vfljegrDX.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/facepile_tooltip.amd.min-vflz6Ngfz.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/facepile_tooltip_content.amd.min-vflXOMOlM.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/fbevents.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/feedback_modal.min-vflnzgPTz.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file-sidebar-vflQ8l8iP.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_activity_stream.min-vflvr3U51.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_activity_stream_card.min-vflx-Q561.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_activity_stream_card_detail.min-vflKAi7t4.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_activity_stream_card_factory.min-vflJkPvRN.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_add_activity_card.min-vflB2Tyls.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_comments_pane-vflMEOpSG.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_comments_pane_container.min-vflKheUEs.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_edit_activity_card.min-vflbCojiw.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_metadata-vflmkMMG2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_move_activity_card.min-vflPmZ4vt.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_preview_annotations.min-vflyhoUoX.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_preview_overlay.min-vflF888-U.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_rename_activity_card.min-vflbf2ruG.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_settings_change_activity_card.min-vflGVCXpe.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_shared_content_change_activity_card.min-vfl1jR6vN.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_shared_content_invite_activity_card.min-vflMb3TNU.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_shared_link_change_activity_card.min-vfl-Tz_IN.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_sidebar_base.min-vfl5wWC7E.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_sidebar_component.min-vfl3I17VQ.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_sidebar_tab.min-vfliVtIUB.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_sidebar_toggle_bar.min-vflxbOhve.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_view_activity_card.min-vflqYuGHX.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/file_viewer_interface_controller.min-vflKe_SBa.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/flash_detect.min-vflZv8sIZ.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/flux.min-vflx_Vym9.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/focus-trap-react.min-vfl0j0Xl6.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/focus-trap.npm.min-vflT0jl0a.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/focus_container_component.min-vflZ21RfV.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/font_paper_atlas_grotesk-vflEbKJso.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/foundation-vfl3eJ4da.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/frame_message_listener.min-vfluIGUtj.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/funcaptcha.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/gated_esignature_title_bar_actions.min-vflgRiHen.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/gemini_actions.min-vflR0XWrD.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/get" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/gtm.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/hi_res.min-vflV6cUiE.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/hstsping" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/icon_spacer-vflN3BYt2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.amd.min-vflSofawK.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.amd.min-vflc-uxtj.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.amd.min-vflk1tQWD.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.min-vfl-2sXzH.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.min-vfl2oPPpx.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.min-vfl3ui7Ve.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.min-vflAbtDEd.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.min-vflB5MAm9.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.min-vflSDxnQ8.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.min-vflSWimb-.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.min-vflg1OYv2.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.min-vflkeVpXU.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.min-vflstYWGH.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.min-vflu5bToH.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.web-vflTY3ZjY.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.web-vflZoQZ3h.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.web-vfliiTfMy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/index.web-vfllNAs9f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/input_row.min-vflcAk8KR.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/insert@2x-vflTxG2RJ.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/integration_provider.min-vfl3hPg_1.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/integration_tooltip.min-vflU2yG20.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/interaction.min-vfli1H9Ci.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/interactive_editor_container.min-vflu9vD5m.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/jquery_bundle.min-vflnJvurG.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/loading_section.min-vfl7Xm3oE.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/localization.min-vflFTLSX1.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/logged_out_utils.min-vfldjFK5H.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/logger.min-vflDe0YUo.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/logging.min-vflSw740K.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/login_form-vflmSMDvC.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/login_or_register-vfl9esD0O.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/lru.min-vflQKOhJL.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/macro.min-vflzeWXBR.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/maestro_layout-vflK26Kjh.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/main-vfle6GE8x.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/mention_icon.min-vfl59knfG.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/mention_span_component.min-vflok2o2H.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/mention_suggestions_list_component.min-vflU-18sx.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/mentions_api.min-vflm4k9bl.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/mentions_entity.min-vfl7p-owa.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/mentions_macro.min-vflK-x5Oz.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/metadata_details.min-vfltYGs17.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/metadata_details_body.min-vflMsZcBn.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/metadata_tab.min-vfl4Y0TRv.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/mobile_menu.amd.min-vflP7Vgyx.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/mobile_menu_close_button.amd.min-vfl1_aVQq.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/mobile_menu_content.amd.min-vflrXp4ku.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/mobile_menu_item.amd.min-vflr4cZgP.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/modal-vflYDGbgV.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/modal.min-vflTILJ0N.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/models.min-vflTIUtKV.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/more_dropdown.min-vflwRT0Ch.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/more_option_helpers.min-vfl1iNDsG.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/mounted_file_actions.min-vflL4FJk1.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/multiaccount_login_modal-vflNhUM8J.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/notify-vfla0opVr.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/numbered_comment.min-vflLGRAKC.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/numbered_comment_editor.min-vflfWvFWG.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/onboarding.min-vflLGjdfd.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/onboarding.min-vflP6TCTt.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/onboarding_modal.min-vfl2VBDBX.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/open_in_paper_button.min-vflEbRGsB.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/open_in_paper_callout.min-vflE_oNaB.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/open_in_paper_callout_loader.min-vfl19T07x.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/optout_check" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/overflow_menu.min-vflThXgbN.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/paper_tracker.min-vflYAZnVB.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pass_facepile_logger.min-vflGCD-xj.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pass_upsell_provider.min-vfluPsb0w.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pass_upsell_tooltip.min-vfld5WP__.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pass_upsell_tooltip_v1.min-vflklrEJs.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pass_upsell_tooltip_v2.min-vfl93AyWd.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pass_upsell_tracker.min-vfl1v4ETx.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/paste.min-vflYe3o-4.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-account.min-vfltX5y0m.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-account_core.min-vflMXYmHE.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-api_v2.min-vflyBO1Yl.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-browse-and-home.min-vfl254qWB.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-browse-and-photos.min-vfl3ckCkr.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-browse-core.min-vflPYOh0X.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-browse-uncommon.min-vflVnSWZc.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-browse-utils.min-vfluXwvgK.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-browse.min-vflkCn-wj.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-captcha.min-vflJHLclO.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-controllers-core.min-vflBbcmgI.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-core.min-vfl2FtOxv.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-coreui-forms.min-vflJ9H7QX.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-coreui-with-i18n-for-sharing.min-vflQFFoLC.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-coreui-with-i18n.min-vflo1v2Ef.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-coreui.min-vfl0QDfXS.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-dropins-icons.min-vfleVaJ9l.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-embedded_app.min-vflEnAmhO.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-esignature.min-vflKxwpkW.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-exception-reporting.min-vflm-fLyX.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-extensions.min-vflexbo2s.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-external.min-vflxrUCLT.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-externals-unneeded-for-home.min-vflvubDNU.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-file_viewer.min-vflQG_2SH.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-file_viewer_pdf.min-vflhJJfAV.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-file_viewer_video.min-vfl4VJ5qv.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-growth.min-vflEhwWQR.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-home.min-vflp-0Cd6.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-i18n.min-vflmxbT1g.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-icon-essential.min-vflUwhAa2.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-legacy-aa.min-vfl9Upv4B.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-legacy-ab.min-vfloX9BCM.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-legacy-ac.min-vflMMLwU_.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-legacy-bv.min-vflczsuz-.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-loadable.min-vfl4GDQRY.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-login-and-register-pages.min-vflBlkiWr.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-login-pages-externals.min-vflrwZFzu.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-login-pages.min-vfleHYAta.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-maestro-nav.min-vflY-pQOn.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-mcl-account-avatar.min-vfl_i90up.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-mcl-additional.min-vflwq-aVt.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-mcl-base.min-vflg-Cqve.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-mcl-home.min-vflU_vGwz.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-mcl-icons.min-vflNWVREL.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-mcl-modal.min-vflwldemt.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-misc.min-vflGb2xHf.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-modules-unneeded-for-home.min-vfl9a0gP1.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-notifications.min-vflb3ote1.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-pagelet-shared.min-vflmmIjAf.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-previews_core.min-vflVrCXdO.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-profile_services.min-vfl0uMG4b.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-react-15.6.2-prod.min-vfl5uOArC.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-rondo-forms.min-vflxL9eVS.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-shared_link_core.min-vflUcpBR5.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-sharing-core.min-vfl4Qy5kX.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-sharing-sync-and-share-page.min-vfl8r6LSX.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-sharing-sync.min-vfl_w2YX9.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-sharing.min-vflknGh0e.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-spectrum.min-vfllv7V1x.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-starred.min-vflBALIny.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-stormcrow.min-vflDtxuKP.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-team-core.min-vflIFjH4y.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-telemetry.min-vfld70H5i.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-timing.min-vflCU4cSJ.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/pkg-user-education-client.min-vfl4NdCI8.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/platform-interfaces.min-vflibwDIc.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/post_bar.min-vflqtW-Sd.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/post_button.min-vflnQp6UD.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/post_component.min-vflnsZV8j.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/preview_flexbox_layout-vflt34eP7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/preview_pdf-vflEW16oD.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/preview_quality_popup-vfl4Q_aWU.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/preview_quality_popup_component.min-vflMf_jOd.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/preview_toolbar-vflxsPO3V.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/preview_toolbar.min-vflP9EOiQ.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/preview_toolbar_button.min-vflq2EyMh.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/preview_toolbar_container_component.min-vflWsurHl.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/preview_toolbar_page_indicator.min-vfl0IvCfp.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/preview_toolbar_region_creation.min-vflg7eOO5.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/print_modal.min-vfl7W21Aq.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/printable.min-vflRmXxri.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/progress_bar.min-vfl8feZv3.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/prompt_pagelet-vfl9YPw3C.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/proxy.3d2100fd7107262ecb55ce6847f01fa5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/publish.min-vflkmNrI7.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/punycode.npm.min-vflOS_osL.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/react-touch-events.npm.min-vfld5s_pS.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/react_file_viewer-vfluIANI7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/react_title_bar-vflycFBPP.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/readonly_draft_component.min-vfl71j5jB.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/readonly_editor_container.min-vflxcLnJd.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/recaptcha__en.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/recaptcha_challenge-vflrcf67y.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/recaptcha_v2_challenge-vfl5GXpO2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/reducer.min-vflvVrJGl.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/reflux-0.3.0.min-vflkgJxwg.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/report_flag-vflt1ytDn.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/report_flag.min-vfl6zWWHA.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/saved_resource(1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/scaffold.min-vflCuqsXK.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/scaffold.min-vfll60pkm.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/scooter-scoped-vflWuydQl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/scope_component.min-vflvQpd0Y.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/scope_container.min-vflCtgNTI.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/scroll_list.min-vfl6-iQJB.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/seen_state_coachmark.min-vflW8P2if.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/seen_state_facepile.min-vfltntDLC.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/seen_state_facepile_controller.min-vflDkoRjH.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/seen_state_section.min-vfllzNimj.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/selectors.min-vflQRh5pU.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/separator.min-vfl8_J1Uz.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/shallow_equals.min-vflt_4Bfo.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/share_form_body.min-vflsYhhij.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/share_helpers.min-vflcFlBEP.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/share_modal_error_message.min-vflCsrF5T.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/share_modal_footer.min-vflP5oatM.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/share_modal_main_section.min-vfl9b6_L2.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/shared_file_actions.min-vflauomVd.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/shared_link_file-vflGBKk5Y.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/shared_link_page-vfl4kNFAu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/shared_link_signup_modals-vflf9-K3u.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/shared_link_signup_modals.min-vfles5nO2.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/sidebar_show.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/signup_modal_proxy.min-vfl8nJCWq.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/simple_upsell.min-vflNNWiwR.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/slack_link_share_activity_card.min-vflLacy4C.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/slack_modal.min-vflroWEjc.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/slider.min-vflZmGOFX.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/snackbar-vflLtw9Um.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/stateful_avatar_popover_content.min-vfl3L8bH-.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/stateful_share_form_body.min-vflCg-ri3.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/status_container.min-vflcj7Onb.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/sticker_component.min-vflqgaGjs.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/stickers.min-vfluqLjc0.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/store.min-vflJ79mtp.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/style.min-vflZv_Zet.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/styles__ltr.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/suggestions.min-vfl-B3ThL.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/swfobject.min-vflmPhe7h.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/switch_revision_ui.min-vflyF-pf_.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/switch_revision_ui_container.min-vflH39JCh.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/tabbable.min-vflXgsxZu.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/text.min-vflf3v509.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/text_box.min-vflvlkH_2.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/text_layer.min-vflJABCBk.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/thread.min-vflbcGbIC.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/thread_editor.min-vflNianYk.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/throttle.min-vfl9Vq9-T.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/time_coded_comment.min-vflx4lg5-.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/time_coded_comment_editor.min-vfl-S614w.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/timecode.min-vflR_Oxz5.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/title.min-vflLfeX0j.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/title_bar_close_button.min-vflEDyzY1.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/title_bar_component.min-vflqk_gwH.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/title_bar_logo.min-vfl9gaxAh.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/title_bar_title.min-vfl3IW4N0.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/title_breadcrumb.min-vflEtbJwX.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/title_bubble-vfl_KbQ0y.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/toolbar-vflBYkqCg.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/tooltip.min-vflk4C0vn.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/tooltips.min-vfl4ruSn6.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/tpxf4nq03.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/trail.min-vflT_N-Vw.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/types.min-vfl3IIYvk.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/types.min-vflVg6JK2.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/types.min-vflbRl3nB.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/types.min-vfljtpSY9.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/types.min-vflrmbq4a.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/u01meJHOm6aDdkm65zsgPs06YC1LmxK3T-HIHDDIdgw.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/unread_pill.min-vflNma3K8.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/unread_pill_wrapper.min-vflgmX8RJ.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/update.min-vflACGPhB.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/updating_time_ago.min-vflb7EwNT.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/updating_time_ago_with_details.min-vflSdRQnR.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/url_handler.min-vflvcVMKd.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/utag.116.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/utag.123.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/utag.45.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/utag.48.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/utag.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/utag.v.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/util.min-vflcM7DWd.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/utils.min-vflBJbADV.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/utils.min-vflLT0jhl.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/utils.min-vflPM8O55.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/utils.min-vflQoWeF3.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/utils.min-vflpYr4Ff.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/utils.min-vflyrVCf5.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/uwt.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/version_history_file_actions.min-vflk6P3mf.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/views.min-vflQHa3Vo.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/visibility_aware_scroll_list.min-vfl2gh0RT.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/web_sprites-vflv2MHAO.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/window_interface.min-vflOC6H3x.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lectures/lec1_inclasscoding_files/zxcvbn.min-vflQmwDKG.js.download" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notes/week1.md" afterPath="$PROJECT_DIR$/Notes/week1.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,12 +451,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="week1.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="week1.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Notes/week1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="22">
-                <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+              <first_editor relative-caret-position="483">
+                <caret line="81" column="37" lean-forward="false" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -32,7 +464,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="experiment.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="experiment.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Notes/experiment.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -57,8 +489,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Notes/week1.md" />
         <option value="$PROJECT_DIR$/Notes/experiment.py" />
+        <option value="$PROJECT_DIR$/Notes/week1.md" />
       </list>
     </option>
   </component>
@@ -113,7 +545,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SUTD_Security_50.020" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="SearchEverywhereHistoryKey" value="settings&#9;ACTION&#9;ShowSettings" />
   </component>
@@ -144,6 +576,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -152,9 +585,9 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22341569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14500538" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -198,13 +631,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/Notes/week1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/experiment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -224,6 +666,54 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/week1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/experiment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/experiment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/week1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="483">
+            <caret line="81" column="37" lean-forward="false" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
