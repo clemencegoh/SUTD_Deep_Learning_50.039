@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d26915b4-2120-42f5-8f9c-4459cc90fb66" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/week1/theory/theory_hw_1.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/wk1/2019lec3_inclasscoding.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/lec3_linreg.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notes/images/relu_example.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/week1/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/week1/coding/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/week1/coding/coding_hw1_report.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/week1/coding/hw1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/week1/theory/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/wk1/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/wk1/linreg3_studentversion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/wk1/linreg_studentversion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/wk2/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/wk2/week2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/wk2/wk2_grad_descent.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notes/revision.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework/17flowers.tgz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework/flowers17feats.zip" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SUTD_Deep_Learning_50.039.iml" afterPath="$PROJECT_DIR$/.idea/SUTD_Deep_Learning_50.039.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/week2/theory/2019_theory_w2.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/week2/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/week2/coding/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/week2/theory/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/homework1.pdf" afterPath="$PROJECT_DIR$/Homework/week1/coding/homework1.pdf" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/Homework/week1/coding/coding_hw1_report.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="858">
-                <caret line="39" column="48" lean-forward="true" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+              <first_editor relative-caret-position="220">
+                <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -148,14 +131,14 @@
               <item name="SUTD_Deep_Learning_50.039" type="b2602c69:ProjectViewProjectNode" />
               <item name="SUTD_Deep_Learning_50.039" type="462c0819:PsiDirectoryNode" />
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="week1" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SUTD_Deep_Learning_50.039" type="b2602c69:ProjectViewProjectNode" />
               <item name="SUTD_Deep_Learning_50.039" type="462c0819:PsiDirectoryNode" />
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="week1" type="462c0819:PsiDirectoryNode" />
-              <item name="coding" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
+              <item name="theory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SUTD_Deep_Learning_50.039" type="b2602c69:ProjectViewProjectNode" />
@@ -181,11 +164,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\desktopStorage\school\SUTD_Deep_Learning_50.039\Homework\week2\theory" />
+      <recent name="D:\desktopStorage\school\SUTD_Deep_Learning_50.039\Homework\week1\coding" />
       <recent name="D:\desktopStorage\school\SUTD_Deep_Learning_50.039\InClass\wk2" />
       <recent name="D:\desktopStorage\school\SUTD_Deep_Learning_50.039\InClass" />
-      <recent name="D:\desktopStorage\school\SUTD_Deep_Learning_50.039\Homework\week1\coding" />
       <recent name="D:\desktopStorage\school\SUTD_Deep_Learning_50.039\Homework\week1\theory" />
-      <recent name="D:\desktopStorage\school\SUTD_Deep_Learning_50.039\Notes\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -335,7 +318,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -346,7 +328,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28018224" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16541353" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16541353" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -763,8 +745,8 @@
     <entry file="file://$PROJECT_DIR$/Homework/week1/coding/coding_hw1_report.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="858">
-            <caret line="39" column="48" lean-forward="true" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+          <first_editor relative-caret-position="220">
+            <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
             <folding />
           </first_editor>
           <second_editor />
