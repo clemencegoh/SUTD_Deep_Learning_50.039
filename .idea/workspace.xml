@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d26915b4-2120-42f5-8f9c-4459cc90fb66" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notes/images/broadcasting_example.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/wk3/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/wk3/pytorch_logreg_gdesc_studentversion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/wk3/simple_task_pytorch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notes/week3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/week3/coding/basic_NN.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InClass/wk2/wk2_grad_descent.py" afterPath="$PROJECT_DIR$/InClass/wk2/wk2_grad_descent.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,24 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="hw1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/week1/coding/hw1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3344">
-              <caret line="152" column="78" lean-forward="false" selection-start-line="152" selection-start-column="78" selection-end-line="152" selection-end-column="78" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="week3.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Notes/week3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="66">
-                <caret line="3" column="63" lean-forward="false" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+              <first_editor relative-caret-position="132">
+                <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -44,24 +29,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pytorch_logreg_gdesc_studentversion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InClass/wk3/pytorch_logreg_gdesc_studentversion.py">
+      <file leaf-file-name="basic_NN.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework/week3/coding/basic_NN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4180">
-              <caret line="193" column="17" lean-forward="false" selection-start-line="193" selection-start-column="17" selection-end-line="193" selection-end-column="17" />
+            <state relative-caret-position="154">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
-                <element signature="e#0#27#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="simple_task_pytorch.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/InClass/wk3/simple_task_pytorch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -79,6 +54,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>gradien</find>
+      <find>prin</find>
+      <find>print_function</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,6 +82,7 @@
         <option value="$PROJECT_DIR$/Notes/week3.md" />
         <option value="$PROJECT_DIR$/InClass/wk3/pytorch_logreg_gdesc_studentversion.py" />
         <option value="$PROJECT_DIR$/InClass/wk3/simple_task_pytorch.py" />
+        <option value="$PROJECT_DIR$/Homework/week3/coding/basic_NN.py" />
       </list>
     </option>
   </component>
@@ -113,6 +91,25 @@
     <option name="y" value="221" />
     <option name="width" value="1139" />
     <option name="height" value="785" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -129,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,6 +137,31 @@
               <item name="SUTD_Deep_Learning_50.039" type="b2602c69:ProjectViewProjectNode" />
               <item name="SUTD_Deep_Learning_50.039" type="462c0819:PsiDirectoryNode" />
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SUTD_Deep_Learning_50.039" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SUTD_Deep_Learning_50.039" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="week1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SUTD_Deep_Learning_50.039" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SUTD_Deep_Learning_50.039" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SUTD_Deep_Learning_50.039" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SUTD_Deep_Learning_50.039" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="week3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SUTD_Deep_Learning_50.039" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SUTD_Deep_Learning_50.039" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="week3" type="462c0819:PsiDirectoryNode" />
+              <item name="coding" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SUTD_Deep_Learning_50.039" type="b2602c69:ProjectViewProjectNode" />
@@ -169,6 +190,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.simple_task_pytorch">
+  <component name="RunManager" selected="Python.basic_NN">
     <configuration name="SUTD_Deep_Learning_50.039" type="Python.Ipnb" factoryName="Jupyter Notebook">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,6 +235,23 @@
       <option name="additionalOptions" value="" />
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
+    </configuration>
+    <configuration name="basic_NN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework/week3/coding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SUTD_Deep_Learning_50.039" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/week3/coding/basic_NN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <configuration name="hw1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,38 +321,21 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="wk2_grad_descent" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InClass" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="SUTD_Deep_Learning_50.039" />
-      <option name="SCRIPT_NAME" value="D:\desktopStorage\school\SUTD_Deep_Learning_50.039\InClass\wk2\wk2_grad_descent.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.SUTD_Deep_Learning_50.039" />
-      <item index="1" class="java.lang.String" itemvalue="Python.wk2_grad_descent" />
-      <item index="2" class="java.lang.String" itemvalue="Python.splitting" />
-      <item index="3" class="java.lang.String" itemvalue="Python.svm_train" />
-      <item index="4" class="java.lang.String" itemvalue="Python.hw1" />
-      <item index="5" class="java.lang.String" itemvalue="Python.simple_task_pytorch" />
+      <item index="1" class="java.lang.String" itemvalue="Python.splitting" />
+      <item index="2" class="java.lang.String" itemvalue="Python.svm_train" />
+      <item index="3" class="java.lang.String" itemvalue="Python.hw1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.simple_task_pytorch" />
+      <item index="5" class="java.lang.String" itemvalue="Python.basic_NN" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.simple_task_pytorch" />
-        <item index="1" class="java.lang.String" itemvalue="Python.hw1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.svm_train" />
-        <item index="3" class="java.lang.String" itemvalue="Python.splitting" />
-        <item index="4" class="java.lang.String" itemvalue="Python.wk2_grad_descent" />
+        <item index="0" class="java.lang.String" itemvalue="Python.basic_NN" />
+        <item index="1" class="java.lang.String" itemvalue="Python.simple_task_pytorch" />
+        <item index="2" class="java.lang.String" itemvalue="Python.hw1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.svm_train" />
+        <item index="4" class="java.lang.String" itemvalue="Python.splitting" />
       </list>
     </recent_temporary>
   </component>
@@ -340,10 +362,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3340935" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.333713" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28050172" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16756175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17185822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -368,13 +390,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-486003759/numpy/core/multiarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2530">
-          <caret line="115" column="4" lean-forward="false" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Notes/experiment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -394,7 +409,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1474">
             <caret line="67" column="55" lean-forward="false" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="55" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -427,7 +441,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1474">
             <caret line="67" column="55" lean-forward="false" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="55" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -459,7 +472,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1474">
             <caret line="67" column="55" lean-forward="false" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="55" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -491,7 +503,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -509,7 +520,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -520,25 +530,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="22">
             <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Notes/experiment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Notes/week1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -556,7 +547,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="22">
             <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -574,7 +564,23 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="22">
             <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/experiment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/week1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>
@@ -679,7 +685,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="506">
             <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -690,19 +695,8 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="68">
             <caret line="67" column="55" lean-forward="false" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="55" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/week1/coding/hw1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3344">
-          <caret line="152" column="78" lean-forward="false" selection-start-line="152" selection-start-column="78" selection-end-line="152" selection-end-column="78" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -710,36 +704,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Notes/week3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="66">
-            <caret line="3" column="63" lean-forward="false" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InClass/wk3/pytorch_logreg_gdesc_studentversion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4180">
-          <caret line="193" column="17" lean-forward="false" selection-start-line="193" selection-start-column="17" selection-end-line="193" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/InClass/wk3/simple_task_pytorch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InClass/wk3/pytorch_logreg_gdesc_studentversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="193" column="17" lean-forward="false" selection-start-line="193" selection-start-column="17" selection-end-line="193" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/week1/coding/hw1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3344">
+          <caret line="152" column="78" lean-forward="false" selection-start-line="152" selection-start-column="78" selection-end-line="152" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/week3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/week3/coding/basic_NN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
