@@ -3,7 +3,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
-
+import matplotlib.pyplot as plt
 from torchvision import datasets, transforms
 
 
@@ -26,19 +26,57 @@ class Net(nn.Module):
         return F.log_softmax(x, dim=1)
 
 
-def train(args, model, device, train_loader, optimizer, epoch):
-    model.train()
-    for batch_idx, (data, target) in enumerate(train_loader):
-        data, target = data.to(device), target.to(device)
-        optimizer.zero_grad()
-        output = model(data)
-        loss = F.nll_loss(output, target)
-        loss.backward()
-        optimizer.step()
-        if batch_idx % args.log_interval == 0:
-            print('Train Epoch: {} [{}/{} ({:.0f}%)]\tLoss: {:.6f}'.format(
-                epoch, batch_idx * len(data), len(train_loader.dataset),
-                       100. * batch_idx / len(train_loader), loss.item()))
+def train(args, model, device, train_loader, optimizer, epoch, best_model, best_acc,
+          training_loss, validation_loss):
+    correct = 0
+
+    for phase in ['Train', 'Val']:
+        count = 0
+        total_loss = 0.0
+
+        if phase == 'Train':
+            model.train(True)  # train mode
+        else:
+            model.train(False)  # eval mode
+
+        for batch_idx, (data, target) in enumerate(train_loader):
+
+            count += 1
+
+            data, target = data.to(device), target.to(device)
+
+            optimizer.zero_grad()
+            output = model(data)
+            loss = F.nll_loss(output, target)
+
+            # backwards and optimize only if training phase
+            if phase == 'Train':
+                loss.backward()
+                optimizer.step()
+
+            if batch_idx % args.log_interval == 0:
+                print('{} Epoch: {} [{}/{} ({:.0f}%)]\tLoss: {:.6f}'.format(
+                    phase, epoch, batch_idx * len(data), len(train_loader.dataset),
+                           100. * batch_idx / len(train_loader), loss.item()))
+
+            if phase == 'Val':
+                pred = output.argmax(dim=1, keepdim=True)  # get the index of the max log-probability
+                correct += pred.eq(target.view_as(pred)).sum().item()
+
+            total_loss += loss.item()
+
+        if phase == 'Train':
+            average_training_loss = total_loss / count
+            training_loss.append(average_training_loss)
+
+        if phase == 'Val':
+            average_validation_loss = total_loss / count
+            validation_loss.append(average_validation_loss)
+            current_acc = 100. * correct / len(train_loader.dataset)
+            if current_acc > best_acc:
+                return model, current_acc, training_loss, validation_loss
+
+    return best_model, best_acc, training_loss, validation_loss
 
 
 def test(args, model, device, test_loader):
@@ -55,9 +93,12 @@ def test(args, model, device, test_loader):
 
     test_loss /= len(test_loader.dataset)
 
+    current_acc = 100. * correct / len(test_loader.dataset)
+
     print('\nTest set: Average loss: {:.4f}, Accuracy: {}/{} ({:.0f}%)\n'.format(
         test_loss, correct, len(test_loader.dataset),
-        100. * correct / len(test_loader.dataset)))
+        current_acc))
+
 
 
 def main():
@@ -90,13 +131,15 @@ def main():
     device = torch.device("cuda" if use_cuda else "cpu")
 
     kwargs = {'num_workers': 1, 'pin_memory': True} if use_cuda else {}
+
     train_loader = torch.utils.data.DataLoader(
-        datasets.MNIST('../data', train=True, download=True,
+        datasets.FashionMNIST('../data', train=True, download=True,
                        transform=transforms.Compose([
                            transforms.ToTensor(),
                            transforms.Normalize((0.1307,), (0.3081,))
                        ])),
         batch_size=args.batch_size, shuffle=True, **kwargs)
+
     test_loader = torch.utils.data.DataLoader(
         # change to fashionMNIST instead of MNIST
         datasets.FashionMNIST('../data', train=False, transform=transforms.Compose([
@@ -108,9 +151,29 @@ def main():
     model = Net().to(device)
     optimizer = optim.SGD(model.parameters(), lr=args.lr, momentum=args.momentum)
 
+    best_acc = 0.0
+    best_model = None
+    training_loss = []
+    validation_loss = []
+
     for epoch in range(1, args.epochs + 1):
-        train(args, model, device, train_loader, optimizer, epoch)
-        test(args, model, device, test_loader)
+        best_model, best_acc, training_loss, validation_loss = train(args, model, device, train_loader, optimizer, epoch,
+                                     best_model, best_acc, training_loss, validation_loss)
+
+    # test on best model
+    test(args, best_model, device, test_loader)
+
+    # plot graph
+    plt.plot(training_loss)
+    plt.ylabel('training loss over epochs')
+    plt.show()
+
+    plt.plot(validation_loss)
+    plt.ylabel('validation loss over epochs')
+    plt.show()
+
+    # save model state
+    torch.save(best_model.state_dict(), 'cnn_best_model.pt')
 
     if (args.save_model):
         torch.save(model.state_dict(), "mnist_cnn.pt")
